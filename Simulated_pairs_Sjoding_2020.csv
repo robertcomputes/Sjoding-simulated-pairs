@@ -1,4 +1,4 @@
-patient_id,race,spo2,sao2,role,occult
+patient_id,race,spo2,sao2,role,occult_hypoxemia
 1,White,89,78.1,outlier,True
 2,White,89,78.5,outlier,True
 3,White,89,80.4,whisker_end,True
