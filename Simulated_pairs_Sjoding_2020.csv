@@ -1,4 +1,4 @@
-patient_id,group,spo2,sao2,occult_hypoxemia
+patient_id,race,spo2,sao2,occult_hypoxemia
 1,White,89,87.4,TRUE
 2,White,89,85,TRUE
 3,White,89,89.3,FALSE
